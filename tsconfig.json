@@ -1,0 +1,14 @@
+// root/tsconfig.json (optional)
+{
+    "files": [],
+    "include": [
+      "frontend/src/**/*",
+      "backend/src/**/*"
+    ],
+    "exclude": [
+      "node_modules",
+      "frontend/dist",
+      "backend/dist"
+    ]
+  }
+  
